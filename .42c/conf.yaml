@@ -1,0 +1,3 @@
+apis:
+  src/main/resources/api-schema.yml:
+    alias: "todo-api-documentation"
