@@ -1,7 +1,7 @@
 package com.example.todoapi.service.sample;
 
 import com.example.todoapi.repository.sample.SampleRepository;
-import com.example.todoapi.service.sample.ServiceEntity.SampleEntity;
+import com.example.todoapi.ServiceEntity.SampleEntity;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

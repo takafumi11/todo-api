@@ -1,4 +1,4 @@
-package com.example.todoapi.service.sample.ServiceEntity;
+package com.example.todoapi.ServiceEntity;
 
 import lombok.Value;
 
